@@ -1,0 +1,15 @@
+numpy - numerical analysis
+pandas - data analysis and manipulation
+train test split - used for split the data in to two separate.
+accuracy score - used to evaluate the performance of the function.
+SVM - classifier[classification algorithm].
+Standard Scaler - used to normalize the data[not influenced by the large numbers].
+
+
+
+
+
+
+
+
+

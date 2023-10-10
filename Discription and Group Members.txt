@@ -1,0 +1,29 @@
+ 		    ---------------------
+       		SECTION ONE GROUP TWO
+       		---------------------
+
+       -----------------------------------
+       	Diabetes BY USING machine learning
+       -----------------------------------
+
+      Name 								 ID
+
+1. BEREKET LEMMA 			 ......   RU0369/12
+2. DAWIT MELLESE  			 ......   RU1833/12
+3. ETSUBDINK YOHANNES        ......   RU2082/12 
+4. EYUAKI BIZUAYEHU			 ......   RU5081/12
+5. EYUEL MAMUYE				 ......   RU5083/12
+6. EYUEL TEFERA				 ......   RU0052/12
+7. EYUEL BIZUAYEHU  		 ......   RU5082/12 
+
+
+
+Description: 
+-------------
+
+- Artificial intelligence/Machine learning (AI/ML) is transforming all spheres of our life, including the healthcare system. Application of AI/ML has a potential to vastly enhance the reach of diabetes care thereby making it more efficient. Application of AI/ML would provide insights to our problems as well as may help us to devise tailor-made solutions for the same.
+
+- Our machine learning model uses a combination of eight critical health factors to determine whether an individual is diabetic or not. These factors include pregnancy, glucose levels, blood pressure, skin thickness, insulin levels, Body Mass Index (BMI), pre-diabetes pedigree function, and age. With its sophisticated algorithms and real-world training data, this model delivers results that are both accurate and actionable, empowering patients and healthcare professionals to take control of diabetes diagnosis and management. Healthier future with the power of predictive technology at your fingertips. diabetic or not.
+
+
+
